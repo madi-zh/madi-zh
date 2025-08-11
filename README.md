@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madi Zhanbyrtayev, a Senior Developer from Kazakhstan!) 
-- 👀 I’m interested in Golang, Python and LLMs.
+- 👀 I’m interested in Rust, Python and LLMs.
 - Also, I am extensively learning MCP development, RAG implementations and high load systems.
 - 🌱 I’m currently learning Rust and Microservices architecture.
 
