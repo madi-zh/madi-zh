@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Madi Zhanbyrtayev, a Senior Developer from Kazakhstan!) 
-- 👀 I’m interested in Golang, Python and LLMs. 
-- 🌱 I’m currently learning Golang and Microservices architecture.
+- 👀 I’m interested in Golang, Python and LLMs.
+- Also, I am extensively learning MCP development, RAG implementations and high load systems.
+- 🌱 I’m currently learning Rust and Microservices architecture.
 
 - 📫 If you're interested in one of my projects you can reach me with email m.zhanbyrtaev@gmail.com.
-- 😄 Pronouns: He/Him
 - ⚡ If you see an public repository on my profile, feel free to use it.
 
 
